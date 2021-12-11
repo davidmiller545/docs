@@ -1,3 +1,4 @@
+![Web capture_11-12-2021_155439_ipld io](https://user-images.githubusercontent.com/95957277/145669736-6098d893-dd72-4ab3-a44e-5d1b363bd178.jpeg)
 ---
 title: Configuring autolinks to reference external resources
 intro: You can add autolinks to external resources like JIRA issues and Zendesk tickets to help streamline your workflow.
